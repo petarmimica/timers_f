@@ -40,7 +40,7 @@
       
 
 
-      MODULE timers
+      MODULE timers_f
       IMPLICIT NONE
 
 !     time data structure
